@@ -1,0 +1,3 @@
+name: azure-managedapp
+runtime: nodejs
+description: Advanced Pulumi infrastructure for Azure (AKS + CSI + Helm)
