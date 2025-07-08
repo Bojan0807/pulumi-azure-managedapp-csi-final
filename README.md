@@ -4,16 +4,16 @@ This project provisions an advanced Azure infrastructure using Pulumi in TypeScr
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔒 Azure Key Vault integration using CSI driver
-- 📁 Secrets mounted as files into AKS pods
-- ☸️ Helm deployment of NGINX sample app
-- 🌐 Ingress-ready structure with TLS support (from Key Vault certificates)
-- 🔄 GitHub Actions CI/CD workflow for automated deployment
-- 🌍 Multi-environment setup: `dev`, `staging`, `prod`
+- Azure Key Vault integration using CSI driver
+- Secrets mounted as files into AKS pods
+- Helm deployment of NGINX sample app
+- Ingress-ready structure with TLS support (from Key Vault certificates)
+- GitHub Actions CI/CD workflow for automated deployment
+- Multi-environment setup: `dev`, `staging`, `prod`
 
 ---
 
-## 🗂 Project Structure
+
 
